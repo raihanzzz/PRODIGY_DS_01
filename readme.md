@@ -23,36 +23,6 @@ The dataset used for this task was sourced from:
 
 ---
 
-## 🛠️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/population-visualization-task01.git
-   cd population-visualization-task01
-   ```
-
-2. **(Optional) Create and activate a virtual environment**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Launch Jupyter Notebook**
-   ```bash
-   jupyter notebook
-   ```
-
-5. **Open and run**
-   - Open the file `PRODIGY_DS_01.ipynb`
-   - Run all the cells to generate visualizations
-
----
-
 ## 📊 Output Preview
 
 ### 🔹 Bar Chart – Total Population by Country
@@ -72,23 +42,10 @@ You can find sample charts inside the notebook under the output cells.
 
 ---
 
-## 📁 Folder Structure
-```
-population-visualization-task01/
-│
-├── assets/                      # (Optional) Output images or charts
-├── worldpopulationdata.csv     # Dataset used
-├── PRODIGY_DS_01.ipynb         # Jupyter Notebook with analysis
-├── requirements.txt            # List of required libraries
-└── README.md                   # Project documentation
-```
-
----
-
 ## 🙋‍♂️ Author
 **MD Raihan**  
 📌 Data Science Intern at Prodigy InfoTech  
-🔗 [LinkedIn](https://linkedin.com/in/mdraihan)
+🔗 LinkedIn - https://www.linkedin.com/in/md-raihan-9809592aa/
 
 ---
 
